@@ -66,7 +66,7 @@ const Layout = ({ children }) => {
                 chains={chains}>
                 <AppProvider>
                     <Head>
-                        <title>7MTpay - 7MT-Zap</title>
+                        <title>ironMirrorpay - ironMirror-Zap</title>
                         <link rel="icon" href="/favicon.ico" />
                         <link rel="preconnect" href="https://fonts.googleapis.com" />
                         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
